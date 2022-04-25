@@ -28,17 +28,11 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="hhttps://www.youtube.com/watch?v=-AtqEByVMIs">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://open.spotify.com/track/1tdsJZWIzCQLhp3ZKrYWhi?si=4a52893087124755">
   </a>
 </div>
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/playlist/5vsOSI844zq2PwuJ4autCQ">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
+
 
 ## My Statistics
 

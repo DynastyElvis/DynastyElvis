@@ -27,7 +27,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="hhttps://www.youtube.com/watch?v=-AtqEByVMIs">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
@@ -49,10 +49,4 @@ if __name__ == '__main__':
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
 <br>

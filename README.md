@@ -26,13 +26,6 @@ if __name__ == '__main__':
     me = Eng_Elvis()
 ```
 
-<div align="center">
-  <a href="hhttps://www.youtube.com/watch?v=-AtqEByVMIs">
-    <img src="hhhh">
-  </a>
-</div>
-
-
 
 ## My Statistics
 

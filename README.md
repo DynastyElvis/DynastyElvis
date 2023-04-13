@@ -4,7 +4,7 @@
 
 
 ```python
-class Eng_Elvis():
+class Elvis():
     
   def __init__(self):
     self.name = "Kipkemoi Elvis";
@@ -17,17 +17,7 @@ class Eng_Elvis():
     return self.name
 
 if __name__ == '__main__':
-    me = Eng_Elvis()
+    me = Elvis()
 ```
 
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/DynastyElvis
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 <br>
